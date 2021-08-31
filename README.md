@@ -1,5 +1,5 @@
  
- [![joaonoronha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats?username=joaonoronha&show_icons=true&theme=dark&layout=compact&include_all_commits=true&count_private=true)
+ [![joaonoronha's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonoronha&show_icons=true&theme=dark&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonoronha&theme=dark)
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
