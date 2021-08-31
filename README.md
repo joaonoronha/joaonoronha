@@ -1,7 +1,7 @@
  <a href="https://github.com/joaonoronha">
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaonoronha&show_icons=true&theme=dark&layout=compact&include_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonoronha&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonoronha&theme=dark&layout=compact" />
 </div>
  </a>
 <div style="display: inline_block"><br>
