@@ -1,6 +1,6 @@
  
- [![joaonoronha's GitHub stats](https://github-readme-stats1-steel.vercel.app/api?username=joaonoronha&show_icons=true&theme=dark&layout=compact&include_all_commits=true&count_private=true)]
- ![Top Langs](https://github-readme-stats1-steel.vercel.app/api/top-langs/?username=joaonoronha&theme=dark)
+ ![joaonoronha's GitHub stats](https://github-readme-stats1-steel.vercel.app/api?username=joaonoronha&show_icons=true&theme=dark&layout=compact&include_all_commits=true&count_private=true)
+ ![Top Langs](https://github-readme-stats1-steel.vercel.app/api/top-langs/?username=joaonoronha&theme=dark&include_all_commits=true&count_private=true)
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
