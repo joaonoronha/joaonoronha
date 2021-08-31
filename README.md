@@ -1,11 +1,6 @@
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonoronha&theme=tokyonight)
- <a href="https://github.com/joaonoronha">
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaonoronha&show_icons=true&theme=dark&layout=compact&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonoronha&theme=dark&layout=compact" />
-</div>
- </a>
+ [![joaonoronha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats?username=joaonoronha&show_icons=true&theme=dark&layout=compact&include_all_commits=true&count_private=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonoronha&theme=dark)
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
