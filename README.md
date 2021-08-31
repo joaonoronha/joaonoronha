@@ -1,9 +1,9 @@
- <div>
-  <a href="https://github.com/joaonoronha">
+ <a href="https://github.com/joaonoronha">
+ <div style="display: flex;">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=joaonoronha&show_icons=true&theme=dark&layout=compact&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonoronha&layout=compact&langs_count=7&theme=dark"/>
- </a>
 </div>
+ </a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
